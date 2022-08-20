@@ -108,6 +108,8 @@ int main()
                 {
                      printf("\nTHANK YOU!!!");
                 }
+            
+                break;
 
     case 2: 
             //temperature case
@@ -171,6 +173,8 @@ int main()
                 {
                      printf("\nTHANK YOU!!!");
                 }
+            
+                break;
 
     case 3 :    
                  //area case
@@ -245,6 +249,8 @@ int main()
                 {
                      printf("\nTHANK YOU!!!");
                 }
+            
+                break;
 
     case 4:     
                 //perimeter case
@@ -322,6 +328,7 @@ int main()
                      printf("\nTHANK YOU!!!");
                 }
 
+                 break;
     case 5:     
                 //volume case
                 vol:
@@ -400,6 +407,8 @@ int main()
                 {
                      printf("\nTHANK YOU!!!");
                 }
+            
+                break;
 
 
     case 6:     //Power
@@ -467,6 +476,8 @@ int main()
                 {
                      printf("\nTHANK YOU!!!");
                 }
+            
+                 break;
 
 
     case 7 :
@@ -490,6 +501,7 @@ int main()
                 {
                      printf("\nTHANK YOU!!!");
                 }
+            break;
 
 
     default :  goto wrong;
